@@ -32,7 +32,11 @@ app.use(express.json());
 app.use(cors({ origin: FRONTEND_URL, credentials: true }));
 app.use(clerkMiddleware());
 
+<<<<<<< HEAD
 app.get("/health", (req, res) => {
+=======
+app.get("/api", (req, res) => {
+>>>>>>> 427ca7ef728245ff5873dcdf23a1a68b67a6fd9b
   res.status(200).json({ ok: true });
 });
 
