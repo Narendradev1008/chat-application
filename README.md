@@ -1,10 +1,4 @@
 # 💬 Full Stack Real-Time Chat App 🚀
-<<<<<<< HEAD
-=======
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
->>>>>>> 427ca7ef728245ff5873dcdf23a1a68b67a6fd9b
 ---
 
 ## ✨ Highlights:
